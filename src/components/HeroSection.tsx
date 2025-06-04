@@ -67,7 +67,7 @@ const HeroSection = () => {
                 className="text-green-600 mx-auto mb-3"
               />
               <h3 className="font-semibold text-gray-900 mb-2">
-                Экспертное качество
+                Отечественное производство
               </h3>
               <p className="text-sm text-gray-600"></p>
             </div>
