@@ -69,7 +69,7 @@ const HeroSection = () => {
               <h3 className="font-semibold text-gray-900 mb-2">
                 Экспертное качество
               </h3>
-              <p className="text-sm text-gray-600">Для профессионалов</p>
+              <p className="text-sm text-gray-600"></p>
             </div>
           </div>
         </div>
