@@ -47,7 +47,7 @@ const HeroSection = () => {
               <h3 className="font-semibold text-gray-900 mb-2">
                 100% Безопасно
               </h3>
-              <p className="text-sm text-gray-600">Отсутствие токсичности</p>
+              <p className="text-sm text-gray-600">Сертифицированная формула</p>
             </div>
             <div className="bg-white/70 rounded-lg p-6 shadow-sm">
               <Icon
